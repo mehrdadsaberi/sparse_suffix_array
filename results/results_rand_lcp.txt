@@ -1,0 +1,23 @@
+K: 3, W: 3
+Density: 0.999998
+Avg. Query Time: 20.078 ms
+
+K: 3, W: 5
+Density: 0.500393
+Avg. Query Time: 17.559 ms
+
+K: 3, W: 10
+Density: 0.225483
+Avg. Query Time: 20.901 ms
+
+K: 3, W: 20
+Density: 0.109199
+Avg. Query Time: 31.776 ms
+
+K: 3, W: 40
+Density: 0.0600136
+Avg. Query Time: 44.121 ms
+
+K: 3, W: 80
+Density: 0.0295678
+Avg. Query Time: 83.515 ms

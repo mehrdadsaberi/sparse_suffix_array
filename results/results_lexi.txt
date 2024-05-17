@@ -1,0 +1,47 @@
+K: 3, W: 3
+Density: 0.999998
+Avg. Query Time: 22.849 ms
+
+K: 3, W: 5
+Density: 0.556289
+Avg. Query Time: 22.72 ms
+
+K: 3, W: 10
+Density: 0.256684
+Avg. Query Time: 23.103 ms
+
+K: 3, W: 20
+Density: 0.129577
+Avg. Query Time: 33.609 ms
+
+K: 3, W: 40
+Density: 0.0710202
+Avg. Query Time: 48.599 ms
+
+K: 3, W: 80
+Density: 0.0451082
+Avg. Query Time: 72.633 ms
+
+K: 6, W: 6
+Density: 0.999995
+Avg. Query Time: 22.045 ms
+
+K: 6, W: 10
+Density: 0.376761
+Avg. Query Time: 25.221 ms
+
+K: 6, W: 20
+Density: 0.147339
+Avg. Query Time: 32.268 ms
+
+K: 6, W: 30
+Density: 0.0927223
+Avg. Query Time: 35.799 ms
+
+K: 6, W: 40
+Density: 0.0680513
+Avg. Query Time: 48.711 ms
+
+K: 6, W: 80
+Density: 0.0340696
+Avg. Query Time: 78.179 ms
