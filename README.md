@@ -1,4 +1,4 @@
-# sparse_suffix_array
+# Sparse Suffix Array based on Minimizers
 Implementation of sparse suffix array based on sampling minimizers
 
 Download and extract the a sample genome sequence from [link](https://ftp.ensembl.org/pub/release-111/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.alt.fa.gz). A sample of queries is provided in the file `sampled_substrings_1M.txt`, but you can generate your own samples with arbitrary length and reference size using the code from `generate_queries.cpp`.
